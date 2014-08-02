@@ -1,0 +1,7 @@
+button {
+    margin: 5px;
+}
+button#theone {
+    color: red;
+    background: yellow;
+}
